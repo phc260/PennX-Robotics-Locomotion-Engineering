@@ -9,5 +9,5 @@
 ## Electromagnetic Virtual Spring
 <img src="P243.gif">
 
-# Active Five-bar-linkage Leg
+# Active Five-Bar-Linkage Leg
 <img src="P25.gif">
